@@ -9,8 +9,8 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on No-Code Application Platform @[Blup](https://blup.in/)
-- 🌱 I’m currently learning React, Gatbsy.
-- 💬 Ask me about Flutter, Android, Angular, AWS, Spring Boot, Hibernate, Rest Api, Firebase.
+- 🌱 I’m currently learning React.
+- 💬 Ask me about Java, Spring, Spring Boot, Hibernate, Rest Api, AWS, Firebase.
 - 😄 Pronouns: He/His.
 - ⚡ Fun fact: I 💘 💻 && I 💘 📷🎥.
 
