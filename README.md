@@ -8,7 +8,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on No-Code Application Platform @[Blup](https://blup.in/)
+- 🔭 I’m currently working as Backend Developer[SDE 2] for National Australia Bank.
 - 🌱 I’m currently learning React.
 - 💬 Ask me about Java, Spring, Spring Boot, Hibernate, Rest Api, AWS, Firebase.
 - 😄 Pronouns: He/His.
